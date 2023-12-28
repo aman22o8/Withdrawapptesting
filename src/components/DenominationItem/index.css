@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.my_btn {
+  border: solid 2px #c4c4c4;
+  color: #c4c4c4;
+  font: normal normal 400 28px 'Roboto';
+  height: 50px;
+  width: 200px;
+  background-color: #585076;
+  border-radius: 8px;
+  margin: 10px;
+}

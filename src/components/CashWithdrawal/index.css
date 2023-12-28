@@ -1,0 +1,66 @@
+/* Write your CSS here */
+.main_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card_container {
+  border-radius: 10px;
+  background-color: #150b3e;
+  padding: 20px;
+  width: 50vw;
+}
+.header_container {
+  display: flex;
+  align-items: center;
+}
+.short_name {
+  font: normal normal 400 15px 'Roboto';
+  color: #585076;
+  background-color: #c7d2fe;
+  height: 45px;
+  width: 45px;
+  padding-left: 17px;
+  padding-top: 14px;
+  border-radius: 22px;
+}
+.full_name {
+  font: normal normal 600 20px 'Roboto';
+  color: #d4d2db;
+  margin-left: 15px;
+}
+.middle_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.your_bal {
+  font: normal normal 500 28px 'Roboto';
+  color: #585076;
+}
+.ruppee {
+  font: normal normal 300 35px 'Roboto';
+  color: #d4d2db;
+}
+
+.in_ruppee {
+  font: normal normal 400 20px 'Roboto';
+  color: #585076;
+}
+
+.domination_heading {
+  font: normal normal 300 35px 'Roboto';
+  color: #d4d2db;
+}
+.domination_desc {
+  font: normal normal 300 19px 'Roboto';
+  color: #585076;
+}
+.domination_list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px;
+  padding: 0px;
+}
